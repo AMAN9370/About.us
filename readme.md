@@ -14,9 +14,9 @@ This project Made for Car Rental by this web we can book cab any time anywhere t
 
 ## Screenshots
 
-![Login Page](./images/Screenshot%20(412).png)
+![Login Page](./Images/Screenshot_20240224_031235.png)
 
-![Signup Page](./images/Screenshot%20(413).png)
+![Signup Page](./Images/Screenshot_20240224_031251.png)
 
 ## Services
 
